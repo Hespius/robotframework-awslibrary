@@ -9,5 +9,4 @@ class AWSLibrary(DynamicCore):
         super().__init__(keywords)
 
     def __get_keyword_instances(self):
-        return [s3()]
-
+        return [S3(), STS()]

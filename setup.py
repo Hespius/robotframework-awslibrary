@@ -9,7 +9,7 @@ def readme():
 
 setup(
     name='robotframework-awslibrary',
-    version='0.0.1',
+    version='0.0.2',
     author='Vinicius Henrique Especoto',
     description='A python package to create test cases for AWS services using Robot Framework',
     long_description=readme(),

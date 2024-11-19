@@ -166,3 +166,6 @@ cython_debug/
 log.html
 report.html
 output.xml
+
+# localstack
+localstack/
